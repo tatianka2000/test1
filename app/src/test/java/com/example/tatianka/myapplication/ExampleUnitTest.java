@@ -1,4 +1,4 @@
-package com.example.tatianka.myapplication;
+package com.example.tatianka.test1;
 
 import org.junit.Test;
 

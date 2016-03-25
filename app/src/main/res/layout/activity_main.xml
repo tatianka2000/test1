@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 
-    tools:context="com.example.tatianka.myapplication.MainActivity"
+    tools:context="com.example.tatianka.test1.MainActivity"
     android:clickable="false"
     android:background="#e7e7e7">
 

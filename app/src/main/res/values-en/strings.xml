@@ -10,15 +10,8 @@
     <string name="date_resolve">29 january 2016</string>
     <string name="responsible">Responsible</string>
     <string name="responsible_name">Dniepropetrovsk MVK</string>
-    <string name="details">An open ........</string>
+    <string name="details">Opened hatch (near the billboard), the area of 18 and 19 trams crossroad at Mir Avenue with the Donetsk highway</string>
 
-    <!--
-        <string-array name="imageURLs">
-            <item>https://pp.vk.me/c315320/v315320184/3696/u4JgZBMjEDg.jpg</item>
-            <item>https://pp.vk.me/c315320/v315320184/36ba/qf3-DXXK7Y4.jpg</item>
-            <item>https://pp.vk.me/c315320/v315320184/3741/bVxeD_9F9OQ.jpg</item>
-        </string-array>
-    -->
     <string-array name="imageURLs">
         <item>http://www.medikforum.ru/news/uploads/posts/2013-05/1369388538_24.jpg</item>
         <item>http://altaypost.ru/uploads/posts/2013-07/thumbs/1375085013_lyk.jpg</item>
