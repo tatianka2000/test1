@@ -10,5 +10,5 @@
         android:id="@+id/imageView"
         android:scaleType="fitXY"
         android:onClick="onViewClick"
-        android:padding="@dimen/margin_size" />
+        android:padding="@dimen/padding_size5" />
 </LinearLayout>
