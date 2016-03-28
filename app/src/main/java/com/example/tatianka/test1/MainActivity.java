@@ -11,11 +11,12 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
+//[Comment] Wrong toolbar and status bar color.
 public class MainActivity extends AppCompatActivity {
 
     private Toolbar mToolbar;
     private RecyclerView mRecyclerView;
-    private RecyclerView.Adapter mAdapter;
+    private RecyclerView.Adapter mAdapter; //[Comment] All of these objects should be local
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -42,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
 
     // backbutton press
     @Override
-    public void onBackPressed() {
+    public void onBackPressed() { //[Comment] Unnecessary method
         finish();
     }
 

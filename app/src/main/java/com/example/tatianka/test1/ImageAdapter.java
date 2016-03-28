@@ -15,7 +15,7 @@ public class ImageAdapter extends RecyclerView.Adapter<ImageAdapter.ViewHolder> 
     private Context mContext;
 
     public static class ViewHolder extends RecyclerView.ViewHolder {
-        public ImageView mImageView;
+        public ImageView mImageView; //[Comment] Wrong visibility modifier
         public ViewHolder(View v) {
             super(v);
             mImageView = (ImageView)v.findViewById(R.id.imageView);
@@ -24,7 +24,7 @@ public class ImageAdapter extends RecyclerView.Adapter<ImageAdapter.ViewHolder> 
 
     public ImageAdapter(String[] myDataset, Context context) {
         mContext = context;
-        mDataset = myDataset;
+        mDataset = myDataset; //[Comment] Without "my"
     }
 
     @Override

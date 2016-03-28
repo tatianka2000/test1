@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/andrewkhristyan/YalantisInternship/gorban_tatiana/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1f1c7067e22acf05bddbca9f94422050cd848a86">
+        <dex dex="/Users/andrewkhristyan/YalantisInternship/gorban_tatiana/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0-alpha1_7c2e878715fd64832775f6be4fb7927b01d80d3f.jar" />
+    </item>
+    <item
+        jar="/Users/andrewkhristyan/YalantisInternship/gorban_tatiana/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="/Users/andrewkhristyan/YalantisInternship/gorban_tatiana/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0-alpha1_b1e1e9c388de256515eb016130b2775bcb7aa77b.jar" />
+    </item>
+    <item
+        jar="/Users/andrewkhristyan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/Users/andrewkhristyan/YalantisInternship/gorban_tatiana/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-alpha1_41cb9d0aa4a264ab15faeeb9a40e7505b67425ea.jar" />
+    </item>
+    <item
+        jar="/Users/andrewkhristyan/YalantisInternship/gorban_tatiana/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="/Users/andrewkhristyan/YalantisInternship/gorban_tatiana/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0-alpha1_30a86a2799b1ceaee98959cf9ecd14d0496bbc30.jar" />
+    </item>
+    <item
+        jar="/Users/andrewkhristyan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/andrewkhristyan/YalantisInternship/gorban_tatiana/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_1a314a0f10036d427901a6881b447b00978db96d.jar" />
+    </item>
+    <item
+        jar="/Users/andrewkhristyan/YalantisInternship/gorban_tatiana/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="/Users/andrewkhristyan/YalantisInternship/gorban_tatiana/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0-alpha1_1de936da35da7b8c5815e5a50854d255ee9a5f2a.jar" />
+    </item>
+    <item
+        jar="/Users/andrewkhristyan/YalantisInternship/gorban_tatiana/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="/Users/andrewkhristyan/YalantisInternship/gorban_tatiana/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha1_86e7459282003268e11827da78be23a6f2164e74.jar" />
+    </item>
+    <item
+        jar="/Users/andrewkhristyan/YalantisInternship/gorban_tatiana/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="/Users/andrewkhristyan/YalantisInternship/gorban_tatiana/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0-alpha1_62d010c40b83cf7ad3ccbbaee0759ca5dd49e03a.jar" />
+    </item>
+
+</items>
