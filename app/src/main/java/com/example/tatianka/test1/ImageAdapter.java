@@ -15,16 +15,16 @@ public class ImageAdapter extends RecyclerView.Adapter<ImageAdapter.ViewHolder> 
     private Context mContext;
 
     public static class ViewHolder extends RecyclerView.ViewHolder {
-        public ImageView mImageView;
+        private ImageView mImageView;
         public ViewHolder(View v) {
             super(v);
             mImageView = (ImageView)v.findViewById(R.id.imageView);
         }
     }
 
-    public ImageAdapter(String[] myDataset, Context context) {
+    public ImageAdapter(String[] dataset, Context context) {
         mContext = context;
-        mDataset = myDataset;
+        mDataset = dataset;
     }
 
     @Override

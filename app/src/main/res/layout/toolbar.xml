@@ -7,4 +7,4 @@
     app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
     android:background="@color/colorPrimary"
     android:onClick="onViewClick"
-    android:elevation="5dp" />
+    android:elevation="@dimen/elevation_size" />

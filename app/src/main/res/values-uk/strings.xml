@@ -6,8 +6,8 @@
     <string name="date_created">25 січня 2016</string>
     <string name="registered">Зареєстровано</string>
     <string name="date_registered">26 січня 2016</string>
-    <string name="solve">Вирішити до</string>
-    <string name="date_solve">29 січня 2016</string>
+    <string name="resolve">Вирішити до</string>
+    <string name="date_resolve">29 січня 2016</string>
     <string name="responsible">Відповідальний</string>
     <string name="responsible_name">Дніпропетровський МВК()</string>
     <string name="details">Відкритий люк (біля рекламного щита), район повороту 18 та 19 трамваїв на проспект Миру з Донецького шоссе</string>

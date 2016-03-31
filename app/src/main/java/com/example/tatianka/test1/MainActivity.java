@@ -13,18 +13,14 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Toolbar mToolbar;
-    private RecyclerView mRecyclerView;
-    private RecyclerView.Adapter mAdapter;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
         // set toolbar
-        mToolbar = (Toolbar) findViewById(R.id.toolbar_actionbar);
-        setSupportActionBar(mToolbar);
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar_actionbar);
+        setSupportActionBar(toolbar);
 
         if(getSupportActionBar()!=null) {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
@@ -32,18 +28,12 @@ public class MainActivity extends AppCompatActivity {
         }
 
         // set recyclerview
-        mRecyclerView = (RecyclerView) findViewById(R.id.recyclerView);
+        RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);
         layoutManager.setOrientation(LinearLayoutManager.HORIZONTAL);
-        mRecyclerView.setLayoutManager(layoutManager);
-        mAdapter = new ImageAdapter(getResources().getStringArray(R.array.imageURLs), this);
-        mRecyclerView.setAdapter(mAdapter);
-    }
-
-    // backbutton press
-    @Override
-    public void onBackPressed() {
-        finish();
+        recyclerView.setLayoutManager(layoutManager);
+        RecyclerView.Adapter adapter = new ImageAdapter(getResources().getStringArray(R.array.imageURLs), this);
+        recyclerView.setAdapter(adapter);
     }
 
     // backbutton taskbar
