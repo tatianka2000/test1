@@ -52,7 +52,7 @@
         <item name="android:layout_height">@dimen/splitter_size</item>
         <item name="android:background">@android:color/darker_gray</item>
         <item name="android:layout_marginTop">@dimen/padding_size10</item>
-        <item name="android:layout_marginRight">@dimen/padding_size5</item>
+        <item name="android:layout_marginBottom">@dimen/padding_size10</item>
     </style>
 
     <style name="ScrollView">
